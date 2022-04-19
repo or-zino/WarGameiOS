@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		801D3A8E280F070D0090FA21 /* videoDemo.mov in Resources */ = {isa = PBXBuildFile; fileRef = 801D3A8D280F070D0090FA21 /* videoDemo.mov */; };
 		80C92B89280C5D7000865B00 /* WarCardGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C92B88280C5D7000865B00 /* WarCardGameApp.swift */; };
 		80C92B8B280C5D7000865B00 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C92B8A280C5D7000865B00 /* ContentView.swift */; };
 		80C92B8D280C5D7100865B00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80C92B8C280C5D7100865B00 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		801D3A8D280F070D0090FA21 /* videoDemo.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = videoDemo.mov; path = ../../videoDemo.mov; sourceTree = "<group>"; };
 		80C92B85280C5D7000865B00 /* WarCardGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WarCardGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80C92B88280C5D7000865B00 /* WarCardGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WarCardGameApp.swift; sourceTree = "<group>"; };
 		80C92B8A280C5D7000865B00 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		80C92B7C280C5D7000865B00 = {
 			isa = PBXGroup;
 			children = (
+				801D3A8D280F070D0090FA21 /* videoDemo.mov */,
 				80C92B87280C5D7000865B00 /* WarCardGame */,
 				80C92B86280C5D7000865B00 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				80C92B90280C5D7100865B00 /* Preview Assets.xcassets in Resources */,
+				801D3A8E280F070D0090FA21 /* videoDemo.mov in Resources */,
 				80C92B8D280C5D7100865B00 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
