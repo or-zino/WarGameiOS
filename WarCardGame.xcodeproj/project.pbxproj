@@ -16,6 +16,7 @@
 
 /* Begin PBXFileReference section */
 		801D3A8D280F070D0090FA21 /* videoDemo.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = videoDemo.mov; path = ../../videoDemo.mov; sourceTree = "<group>"; };
+		801D3A8F280F097B0090FA21 /* urlToTheVideo.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = urlToTheVideo.md; sourceTree = "<group>"; };
 		80C92B85280C5D7000865B00 /* WarCardGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WarCardGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80C92B88280C5D7000865B00 /* WarCardGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WarCardGameApp.swift; sourceTree = "<group>"; };
 		80C92B8A280C5D7000865B00 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -37,6 +38,7 @@
 		80C92B7C280C5D7000865B00 = {
 			isa = PBXGroup;
 			children = (
+				801D3A8F280F097B0090FA21 /* urlToTheVideo.md */,
 				801D3A8D280F070D0090FA21 /* videoDemo.mov */,
 				80C92B87280C5D7000865B00 /* WarCardGame */,
 				80C92B86280C5D7000865B00 /* Products */,
